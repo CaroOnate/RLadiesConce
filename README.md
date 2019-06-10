@@ -6,4 +6,5 @@ Primer Meetup - Introducción a R.
 
 Inscripción aquí -> https://bit.ly/2MEp80Y
 
+# Código de Conducta
 Si es la primera vez que asistes a uno de nuestros eventos, recuerda revisar nuestro código de conducta. Es requisito para asistir estar de acuerdo con él: https://github.com/rladies/starter-kit/wiki/Code-of-Conduct#spanish
