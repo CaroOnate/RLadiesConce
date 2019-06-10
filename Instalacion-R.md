@@ -1,3 +1,4 @@
+![](https://github.com/CaroOnate/images/blob/master/images/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png)
 ### Instalación de R project
 
 * Descargar R project desde https://cran.r-project.org/. (Escoger la opción correcta según su sistema operativo). 
@@ -10,6 +11,7 @@
 ![](https://github.com/DemoData2019/-miscellaneous/blob/master/images/Wind_R1.png)
   
 ### Instalación de RStudio 
+
 * Una vez que R project ha quedado correctamente instalado, descargue RStudio desde https://www.rstudio.com/products/rstudio/download/. Usaremos la versión gratuita (FREE), "RStudio Desktop Open Source License".
 
 * Instala la versión de RStudio según tu sistema operativo, luego sigue las indicaciones como cualquier programa.
